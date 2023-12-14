@@ -8,8 +8,7 @@ int mode;
 char *cmd;
 
 /**
- * stack_queue - Sets the format of the data to stack and queue.
- *
+ * stack_queue - it Sets the format of the data to stack and queue.
  * @stack: A pointer to a pointer to the begining of the stack
  * implementation list.
  * @line_number: The line number
