@@ -25,7 +25,7 @@ size_t dlistint_len(const stack_t *h)
 /**
  * add_dnodeint - Adds a new element at the begining of the list
  *
- * @head: A pointer that points to another pointer which inturn
+ * @head: A pointer that points to another ptr which inturn
  * points to the head of the list.
  *
  * @n: The element to be added
@@ -57,7 +57,7 @@ stack_t *add_dnodeint(stack_t **head, const int n)
 /**
  * add_dnodeint_end - Adds a new element at the end of the list
  *
- * @head: A pointer that points to a pointer which inturn points to
+ * @head: A pointer that points to a ptr which inturn points to
  * the head of the list.
  * @n: The element to be added
  *
