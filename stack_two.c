@@ -3,7 +3,7 @@
 /**
  * delete_dnodeint_at_index - Deletes a node at specified index
  *
- * @head: A pointer to the pointer which inturn points to the head of the list.
+ * @head: A pointer to the ptr which inturn points to the head of the list.
  * @index: The index at which an element to be deleted.
  *
  * Return: 1 if it succeeded, -1 if it failed
@@ -42,7 +42,7 @@ int delete_dnodeint_at_index(stack_t **head, unsigned int index)
 /**
  * free_dlistint - Frees a dlistint_t list
  *
- * @head: A pointer to the head of the list
+ * @head: A ptr to the head of the list
  *
  */
 
