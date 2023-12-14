@@ -8,9 +8,9 @@
  * and all the function prototypes used for the 0x19. C - Stacks,
  * Queues - LIFO, FIFO project in the ALX's Software Engineering program.
  *
- * Author: Gizachew Bayness (Elec Crazy) and  Kaleab Girma
+ * 
  *
- * Date Created: Jul 13 2022
+ * 
  *
  */
 
