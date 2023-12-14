@@ -4,7 +4,6 @@
  * push - Pushes value to stack.
  *
  * @stack: A pointer to a pointer to the begining of the stack
- * implementation list.
  * @line_number: The line number.
  *
  */
